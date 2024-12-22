@@ -1,0 +1,7 @@
+name: HeadOrNumberGame
+version: '1.0'
+main: dev.larrox.headOrNumberGame.HeadOrNumberGame
+api-version: '1.21'
+load: STARTUP
+authors: [ Larrox ]
+website: https://larrox.xyz/
